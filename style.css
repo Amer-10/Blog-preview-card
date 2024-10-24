@@ -75,6 +75,7 @@ img {
 a {
     text-decoration: none;
     font-size: 20px;
+    color: hsl(230.32deg 26.5% 54.12%);
 }
 @media (max-width: 1200px) {
     .container {
