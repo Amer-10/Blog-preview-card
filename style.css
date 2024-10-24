@@ -51,7 +51,8 @@ h1 {
     margin: 20px 10px;
 }
 h1:hover {
-color: var(--Yellow)
+color: var(--Yellow);
+text: pointer;
 }
 p {
     color: var(--Gray-500);
