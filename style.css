@@ -81,7 +81,7 @@ a {
     .container {
         width: 100%;
     }
-    .attribution {
+    a {
         font-size: 20px;
     }
 }
@@ -90,6 +90,9 @@ a {
         width: 90%;
     }
     .attribution {
-        font-size: 17px;
+        margin: 10px 10px;
+    }
+    a {
+        font-size: 16px;
     }
 }
