@@ -65,34 +65,13 @@ img {
     font-weight: bold;
     font-size: 20px;
 }
-.attribution {
-    position: absolute;
-    top: 98%;
-    background-color: var(--White);
-    padding: 10px;
-    border-radius: 0.5rem;
-}
-a {
-    text-decoration: none;
-    font-size: 20px;
-    color: hsl(230.32deg 26.5% 54.12%);
-}
 @media (max-width: 1200px) {
     .container {
         width: 100%;
-    }
-    a {
-        font-size: 20px;
     }
 }
 @media (max-width: 768px) {
     .container {
         width: 90%;
-    }
-    .attribution {
-        margin: 10px 10px;
-    }
-    a {
-        font-size: 16px;
     }
 }
